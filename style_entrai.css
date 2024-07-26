@@ -1,0 +1,65 @@
+html{
+	background-image: url("Images/font.jfif");
+	background-size: cover;
+}
+
+img {
+	width : 999px;
+	height : 300px;
+}
+
+div {
+	text-align: center;
+}
+
+a {
+	font-size: 20px;
+}
+
+a {
+	text-align: center;
+  background-color: #04AA6D;
+}
+
+ul {
+  list-style-type: none;
+  margin: 4;
+  padding: 4;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: black;
+  color: ghostwhite;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li {
+  border-right: 1px solid #bbb;
+}
+
+ul {
+  position: fixed;
+  width: 100%;
+}
+
+#carre{
+	border-style: solid;
+	width: 400px;
+	margin:20px;
+}
+
+#texte{
+	float: right;
+}
+
+p {
+    font-size: 20px;
+}

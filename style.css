@@ -1,0 +1,53 @@
+html{
+	background-image: url("Images/font.jfif");
+	background-size: cover;
+}
+
+#logo {
+	width : 999px;
+	height : 300px;
+}
+
+#illustration {
+	width : 400px;
+	
+}
+
+div {
+	text-align: center;
+}
+
+a {
+	font-size: 30px;
+	text-align: center;
+}
+
+
+.active {
+  background-color: #04AA6D;
+}
+
+ul {
+  list-style-type: none;
+  margin: 4;
+  padding: 4;
+  overflow: hidden;
+  background-color: #333;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: black;
+  color: ghostwhite;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li {
+  border-right: 1px solid #bbb;
+}
